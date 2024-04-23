@@ -1,7 +1,5 @@
 # CRUD_with_Database_MySQL
 
-# CRUD App README
-
 ## Description
 This CRUD (Create, Read, Update, Delete) application showcases the fundamentals of web development using HTML, CSS, JavaScript, Node.js, and MySQL. It offers a simple yet functional interface to interact with a MySQL database through basic CRUD operations.
 
